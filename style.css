@@ -1,0 +1,46 @@
+div > p {
+    background-color: yellow;
+}
+
+h1 {
+    background-color: lightblue;
+}
+
+.text-class {
+    background-color: lightgreen;
+}
+
+#unique {
+    background-color: lightcoral;
+}
+
+input[type="text"] {
+    background-color: lightyellow;
+}
+section p {
+    background-color: lightpink;
+}
+ul > li {
+    background-color: lightsalmon;
+}
+p.combo {
+  background-color: lavender;
+}
+h2#title {
+  background-color: lightsteelblue;
+}
+div.box span {
+  background-color: peachpuff;
+}
+p.combo {
+  background-color: lavender;
+}
+
+h2#title {
+  background-color: lightsteelblue;
+}
+
+div.box span {
+  background-color: peachpuff;
+}
+
